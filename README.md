@@ -23,12 +23,12 @@ This section showcases my hands-on projects, which align with the curriculum of 
 
 | Project Title | Course Reference | Key Skills Demonstrated |
 |---|---|---|
-| **[Botium Toys Security Audit](project-2-risk-assessment/README.md)**  | Course 2: Play It Safe: Manage Security Risks | Risk Management, Threat Identification, NIST Framework |
-| **[Network Traffic Analysis & Hardening](project-3-network-analysis/README.md)** | Course 3: Connect and Protect: Networks and Network Security | Wireshark, Packet Analysis, Network Security |
-| **[Linux & SQL Security Analysis](project-4-linux-sql/README.md)** | Course 4: Tools of the Trade: Linux and SQL | Linux Command Line, SQL Queries, Log Analysis |
-| **[Vulnerability Management & Remediation Plan](project-5-vulnerability-management/README.md)** | Course 5: Assets, Threats, and Vulnerabilities | Vulnerability Management, Threat Modeling, MITRE ATT&CK Framework |
-| **[Incident Response Playbook for Ransomware](project-6-incident-response/README.md)** | Course 6: Sound the Alarm: Detection and Response | Incident Response Lifecycle, Containment, Post-Incident Analysis |
-| **[Automated Log Parser with Python](project-7-python-automation/README.md)** | Course 7: Automate Cybersecurity Tasks with Python | Python Scripting, Automation, File I/O, Regular Expressions |
+| **[Botium Toys Security Audit](02_Project-2-Risk-Assessment/README.md)**  | Course 2: Play It Safe: Manage Security Risks | Risk Management, Threat Identification, NIST Framework |
+| **[Network Traffic Analysis & Hardening](03_Project-3-Network-Analysis/README.md)** | Course 3: Connect and Protect: Networks and Network Security | Wireshark, Packet Analysis, Network Security |
+| **[Linux & SQL Security Analysis](04_Project-4-Linux-SQL/README.md)** | Course 4: Tools of the Trade: Linux and SQL | Linux Command Line, SQL Queries, Log Analysis |
+| **[Vulnerability Management & Remediation Plan](05_Project-5-Vulnerability-Management/README.md)** | Course 5: Assets, Threats, and Vulnerabilities | Vulnerability Management, Threat Modeling, MITRE ATT&CK Framework |
+| **[Incident Response Playbook for Ransomware](06_Project-6-Incident-Response/README.md)** | Course 6: Sound the Alarm: Detection and Response | Incident Response Lifecycle, Containment, Post-Incident Analysis |
+| **[Automated Log Parser with Python](07_Project-7-Python-Automation/README.md)** | Course 7: Automate Cybersecurity Tasks with Python | Python Scripting, Automation, File I/O, Regular Expressions |
 
 ---
 
