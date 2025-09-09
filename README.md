@@ -23,12 +23,12 @@ This section showcases my hands-on projects, which align with the curriculum of 
 
 | Project Title | Course Reference | Key Skills Demonstrated |
 |---|---|---|
-| **[Project 1 Title]** | Course 2: Play It Safe: Manage Security Risks | [List 3-4 skills] |
-| **[Project 2 Title]** | Course 3: Connect and Protect: Networks and Network Security | [List 3-4 skills] |
-| **[Project 3 Title]** | Course 4: Tools of the Trade: Linux and SQL | [List 3-4 skills] |
-| **[Project 4 Title]** | Course 5: Assets, Threats, and Vulnerabilities | [List 3-4 skills] |
-| **[Project 5 Title]** | Course 6: Sound the Alarm: Detection and Response | [List 3-4 skills] |
-| **[Project 6 Title]** | Course 7: Automate Cybersecurity Tasks with Python | [List 3-4 skills] |
+| **[Botium Toys Security Audit](project-2-risk-assessment/README.md)**  | Course 2: Play It Safe: Manage Security Risks | Risk Management, Threat Identification, NIST Framework |
+| **[Network Traffic Analysis & Hardening](project-3-network-analysis/README.md)** | Course 3: Connect and Protect: Networks and Network Security | Wireshark, Packet Analysis, Network Security |
+| **[Linux & SQL Security Analysis](project-4-linux-sql/README.md)** | Course 4: Tools of the Trade: Linux and SQL | Linux Command Line, SQL Queries, Log Analysis |
+| **[Vulnerability Management & Remediation Plan](project-5-vulnerability-management/README.md)** | Course 5: Assets, Threats, and Vulnerabilities | Vulnerability Management, Threat Modeling, MITRE ATT&CK Framework |
+| **[Incident Response Playbook for Ransomware](project-6-incident-response/README.md)** | Course 6: Sound the Alarm: Detection and Response | Incident Response Lifecycle, Containment, Post-Incident Analysis |
+| **[Automated Log Parser with Python](project-7-python-automation/README.md)** | Course 7: Automate Cybersecurity Tasks with Python | Python Scripting, Automation, File I/O, Regular Expressions |
 
 ---
 
