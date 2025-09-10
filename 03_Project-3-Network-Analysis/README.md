@@ -50,4 +50,4 @@ This project demonstrated my ability to not only use a crucial cybersecurity too
 
 ### **Key Deliverable & Artifacts**
 
-* **[View the full wireshark-analysis-report](wireshark-analysis-report.pdf)**
+* **[View the full Wireshark-analysis-report](wireshark-analysis-report.pdf)**
