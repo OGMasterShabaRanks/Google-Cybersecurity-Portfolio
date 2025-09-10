@@ -51,13 +51,16 @@ This project was executed following a structured, methodical approach that align
 
 * **Phase 3: Assessment and Analysis**
     * **Action:** Using the NIST CSF as a guide, I assessed the existing controls and documented vulnerabilities. I then created a comprehensive risk register, prioritizing each risk based on its potential likelihood and impact. This process allowed me to focus on the most critical risks that posed the greatest threat to the business.
-    * **[Botium-toys-risk-register](Botium-toys-risk-register.xlsx)**
-
+    
 * **Phase 4: Mitigation and Recommendation**
     * **Action:** For each high-priority risk, I proposed specific, actionable security controls and mitigation strategies. For example, to mitigate the risk of a ransomware attack, I recommended implementing a regular backup policy and conducting employee security awareness training.
     * **Reference to Cert:** This final phase draws directly from the incident response and mitigation strategies discussed throughout the certificate, especially in **Course 6**, where we learned how to plan for and respond to security incidents.
-	* **[Botium-toys-mitigation-plan](Botium-toys-mitigation-plan.pdf)**
-
+	
 **5. Results and Key Takeaways**
 
 This project solidified my understanding of the risk management lifecycle from start to finish. The most valuable lesson was learning how to take abstract security concepts and translate them into a tangible, prioritized plan that is easy for non-technical stakeholders to understand. I demonstrated my ability to apply the NIST CSF to a real-world scenario and communicate the financial and reputational impact of security vulnerabilities. This project proves my foundational competence in preparing a business to withstand and recover from cyber threats.
+
+### **Key Deliverable & Artifacts**
+
+* **[Botium-toys-risk-register](Botium-toys-risk-register.xlsx)**
+* **[Botium-toys-mitigation-plan](Botium-toys-mitigation-plan.pdf)**
