@@ -62,5 +62,5 @@ This project solidified my understanding of the risk management lifecycle from s
 
 ### **Key Deliverable & Artifacts**
 
-* **[Botium-toys-risk-register](Botium-toys-risk-register.xlsx)**
-* **[Botium-toys-mitigation-plan](Botium-toys-mitigation-plan.pdf)**
+* **[Botium toys risk register](Botium-toys-risk-register.xlsx)**
+* **[Botium toys mitigation plan](Botium-toys-mitigation-plan.pdf)**
