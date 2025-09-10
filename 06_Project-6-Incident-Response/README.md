@@ -77,4 +77,4 @@ This project demonstrates my ability to think critically under pressure and to a
 
 ### **Key Deliverable & Artifacts**
 
-  * **[View the full Incident Response Playbook here.](ransomware-playbook.pdf)**
+  * **[View the full Incident Response Playbook here.](phishing-playbook.pdf)**
