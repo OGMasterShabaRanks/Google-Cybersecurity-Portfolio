@@ -1,4 +1,4 @@
-# Cybersecurty Glossary
+# Cybersecurity Glossary
 
 
 ***Terms and definitions from the certificate***
