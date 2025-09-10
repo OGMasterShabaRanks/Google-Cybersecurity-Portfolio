@@ -86,5 +86,5 @@ This project demonstrates my proficiency with two of the most fundamental tools 
 
 ### **Key Deliverable & Artifacts**
 
-  * **[View the sample SQL queries here.](sql_queries.txt)**
-  * **[View the Linux commands here.](screenshots/linux-comands.png)**
+  * **[View the sample SQL queries here.](sql_queries.pdf)**
+  * **[View the Linux commands here.](linux-comands.pdf)**
