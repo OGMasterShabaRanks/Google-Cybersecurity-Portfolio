@@ -56,6 +56,7 @@ This project was executed following a structured, methodical approach that align
 * **Phase 4: Mitigation and Recommendation**
     * **Action:** For each high-priority risk, I proposed specific, actionable security controls and mitigation strategies. For example, to mitigate the risk of a ransomware attack, I recommended implementing a regular backup policy and conducting employee security awareness training.
     * **Reference to Cert:** This final phase draws directly from the incident response and mitigation strategies discussed throughout the certificate, especially in **Course 6**, where we learned how to plan for and respond to security incidents.
+	* **[Botium-toys-mitigation-plan](Botium-toys-mitigation-plan.pdf)**
 
 **5. Results and Key Takeaways**
 
