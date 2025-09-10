@@ -51,7 +51,7 @@ This project was executed following a structured, methodical approach that align
 
 * **Phase 3: Assessment and Analysis**
     * **Action:** Using the NIST CSF as a guide, I assessed the existing controls and documented vulnerabilities. I then created a comprehensive risk register, prioritizing each risk based on its potential likelihood and impact. This process allowed me to focus on the most critical risks that posed the greatest threat to the business.
-    * **[Include a link to a clean version of your risk register file (e.g., a PDF of the spreadsheet or a screenshot).](risk-register.xlsx)**
+    * **[Botium-toys-risk-register](Botium-toys-risk-register.xlsx)**
 
 * **Phase 4: Mitigation and Recommendation**
     * **Action:** For each high-priority risk, I proposed specific, actionable security controls and mitigation strategies. For example, to mitigate the risk of a ransomware attack, I recommended implementing a regular backup policy and conducting employee security awareness training.
