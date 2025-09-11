@@ -41,7 +41,7 @@ This project was a hands-on application of the networking concepts and principle
     * **Reference to Cert:** This process directly applies the knowledge gained in **Course 3**, which covers how to use network protocol analyzers to investigate network traffic and understand communication protocols.
 
 * **Phase 2: Vulnerability Identification and Reporting**
-    * **Action:** After identifying key vulnerabilities, such as a user transmitting their password in clear text, I documented my findings in a structured report. I included screenshots from Wireshark as evidence and clearly explained the security risks associated with each vulnerability.
+    * **Action:** After identifying key vulnerabilities, such as a user transmitting their password in clear text, I documented my findings in a structured report. I included screenshots from Wireshark (in the form of a TCP/HTTP log screenshot) as evidence and clearly explained the security risks associated with each vulnerability.
     * **Reference to Cert:** This task reinforces the critical-thinking skills emphasized throughout the program, particularly the ability to identify security flaws and articulate their importance to stakeholders.
 
 **5. Results and Key Takeaways**
@@ -50,4 +50,6 @@ This project demonstrated my ability to not only use a crucial cybersecurity too
 
 ### **Key Deliverable & Artifacts**
 
-* **[View the full Wireshark analysis report](wireshark-analysis-report.pdf)**
+* **[View the full Wireshark TCP/HTTP log screenshot](screenshots/wireshark-TCP-HTTP-log-screenshot.png)**
+* **[View the full network analysis report](network-analysis-report.pdf)**
+* **[View the full network hardening report](network-hardening-report.pdf)**
