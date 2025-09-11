@@ -6,7 +6,7 @@
 
 **About Me**
 
-I am an analytical, solution orientated thinker with a fascination for understanding how things work. I have a high value for ethics and respect as well as the ability to constantly learn. What draws me to Cybersecurity is both the ‘Sword & Shield’ aspects respectfully. From the Sword aspect of it I get to ethically test my skills & knowledge with the aim of retrieving company information from a locked company device for example, while on the other hand I also get to be apart of the Shield aspect of it where I could be protecting the company from all threats both internal & external.
+I am an analytical, solution orientated thinker (that deals in solutions, not probleams) with a fascination for understanding how things work. I have a high value for ethics as well as the ability to constantly learn. What draws me to Cybersecurity is both the ‘Sword & Shield’ aspects respectfully. From the Sword aspect of it I get to ethically test my skills & knowledge with the aim of retrieving company information from a locked company device for example, while on the other hand I also get to be apart of the Shield aspect of it where I would be protecting the company from all threats both internal & external.
 
 
 **Key Skills**
@@ -19,7 +19,7 @@ I am an analytical, solution orientated thinker with a fascination for understan
 
 ### **Portfolio Projects**
 
-This section showcases my hands-on projects, which align with the curriculum of the Google Cybersecurity Professional Certificate. Each project is designed to demonstrate practical skills and a methodical approach to solving security challenges. Practical projects and write-ups that demonstrate my understanding of common vulnerabilities, security tools, and defensive strategies.
+This section showcases my hands-on projects, which align with the curriculum of the Google Cybersecurity Professional Certificate. Each project is designed to demonstrate practical skills and a methodical approach to solving security challenges.
 
 | Project Title | Course Reference | Key Skills Demonstrated |
 |---|---|---|
