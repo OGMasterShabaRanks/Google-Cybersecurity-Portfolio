@@ -1,9 +1,3 @@
-I understand. My apologies for the repeated error with the links. I have identified the mistake and will provide the corrected `README.md` with the links formatted correctly to work within the `project-4-linux-sql` folder.
-
-Here is the finalized `README.md` for your **Linux & SQL Security Analysis** project.
-
------
-
 ### **Project Title: Linux & SQL Security Analysis**
 
 -----
@@ -86,5 +80,5 @@ This project demonstrates my proficiency with two of the most fundamental tools 
 
 ### **Key Deliverable & Artifacts**
 
-  * **[View the sample SQL queries here.](sql_queries.pdf)**
-  * **[View the Linux commands here.](linux-comands.pdf)**
+  * **[View the reference guide for SQL queries here.](sql_queries.pdf)**
+  * **[View the reference guide for Linux commands here.](linux-comands.pdf)**
