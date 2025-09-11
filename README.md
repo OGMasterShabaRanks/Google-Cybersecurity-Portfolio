@@ -4,9 +4,11 @@
 ### **Aspiring Cybersecurity Analyst (Security Analyst), passionate about defending digital assets and building resilient systems. I am passionate about technology, code and pushing myself to levels I haven’t achieved before, even if it may be difficult at times.**
 
 
+
 **About Me**
 
-I am an analytical, solution orientated thinker (that deals in solutions, not probleams) with a fascination for understanding how things work. I have a high value for ethics as well as the ability to constantly learn. What draws me to Cybersecurity is both the ‘Sword & Shield’ aspects respectfully. From the Sword aspect of it I get to ethically test my skills & knowledge with the aim of retrieving company information from a locked company device for example, while on the other hand I also get to be apart of the Shield aspect of it where I would be protecting the company from all threats both internal & external.
+I am an analytical, solution orientated thinker (that deals in solutions, not probleams) with a fascination for understanding how things work. I have a high value for ethics as well as the ability to constantly learn & excersise that knowledge. What draws me to Cybersecurity is both the ‘Sword & Shield’ aspects respectfully. From the Sword aspect of it I get to ethically test my skills & knowledge through retriving sensitive information to asssit the company in it's endeavours, while on the other hand I also get to be apart of the Shield aspect of it where I would be protecting the company from all threats both internal & external.
+
 
 
 **Key Skills**
@@ -15,6 +17,7 @@ I am an analytical, solution orientated thinker (that deals in solutions, not pr
 - **Scripting & Automation:** Python (for log analysis, automation)
 - **Networking:** TCP/IP, Network Protocols, Network Hardening
 - **Soft Skills:** Problem Solving, Critical Thinking, Technical Communication, Documentation
+
 
 
 ### **Portfolio Projects**
@@ -32,7 +35,9 @@ This section showcases my hands-on projects, which align with the curriculum of 
 
 ---
 
+
 **Certifications & Links**
+
 - **Google Cybersecurity Professional Certificate** 
 - **LinkedIn:** https://www.linkedin.com/in/ziphozonke-mashaba/
-- **Contact:** umashaba@gmail.com
+
