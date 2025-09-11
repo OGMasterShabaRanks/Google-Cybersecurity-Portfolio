@@ -11,12 +11,12 @@
 * **Key Deliverables:**
     * A **Risk Register** spreadsheet documenting assets, threats, vulnerabilities, likelihood, impact, and a final risk score.
     * A detailed **Mitigation Plan** document outlining recommended security controls and actions to reduce identified risks.
-    * A write-up (in this `README.md`) that explains the process, referencing the NIST Cybersecurity Framework and the CIA Triad.
+    * A write-up that explains the process, referencing the NIST Cybersecurity Framework and the CIA Triad.
 
 **2. Skills Demonstrated**
 
 * **Risk Management**
-* **Threat Identification**
+* **Threat Identification**s
 * **Vulnerability Analysis**
 * **NIST Cybersecurity Framework (CSF)**
 * **CIA Triad** (Confidentiality, Integrity, Availability)
