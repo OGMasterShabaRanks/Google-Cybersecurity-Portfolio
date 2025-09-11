@@ -8,7 +8,6 @@
   * **Scenario:** This project simulates a critical security event: a targeted phishing attack that has compromised a user account, potentially leading to a larger data breach. My objective was to act as the lead incident responder and create a comprehensive playbook to guide a team through the entire incident response lifecycle, from initial detection to final recovery.
   * **Key Deliverables:**
       * A professional **Incident Response Playbook** document outlining the 6 phases of the incident response lifecycle.
-      * A detailed narrative in this `README.md` file of a simulated incident, documenting the steps taken at each phase.
 
 -----
 

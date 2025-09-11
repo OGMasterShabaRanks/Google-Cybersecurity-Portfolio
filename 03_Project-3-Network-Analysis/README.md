@@ -50,6 +50,6 @@ This project demonstrated my ability to not only use a crucial cybersecurity too
 
 ### **Key Deliverable & Artifacts**
 
-* **[View the Wireshark TCP/HTTP log screenshot](screenshots/wireshark-TCP-HTTP-log-screenshot.png)**
-* **[View the full network analysis report](network-analysis-report.pdf)**
-* **[View the full network hardening report](network-hardening-report.pdf)**
+* **[View the Wireshark TCP/HTTP log screenshot here](screenshots/wireshark-TCP-HTTP-log-screenshot.png)**
+* **[View the full network analysis report here](network-analysis-report.pdf)**
+* **[View the full network hardening report here](network-hardening-report.pdf)**
