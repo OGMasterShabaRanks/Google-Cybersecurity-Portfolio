@@ -20,6 +20,7 @@
   * **Data Structures (Lists and Strings)**
   * **Conditional Logic**
   * **Automation of Repetitive Tasks**
+  * **Parsing**
 
 -----
 

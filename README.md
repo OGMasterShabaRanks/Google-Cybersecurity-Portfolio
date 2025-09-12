@@ -31,7 +31,7 @@ This section showcases my hands-on projects, which align with the curriculum of 
 | **[Linux & SQL Security Analysis](04_Project-4-Linux-SQL/README.md)** | Course 4: Tools of the Trade: Linux and SQL | Linux Command Line, SQL Queries, Log Analysis |
 | **[Vulnerability Management & Remediation Plan](05_Project-5-Vulnerability-Management/README.md)** | Course 5: Assets, Threats, and Vulnerabilities | Vulnerability Management, Threat Modeling, MITRE ATT&CK Framework |
 | **[Incident Response Playbook for Ransomware](06_Project-6-Incident-Response/README.md)** | Course 6: Sound the Alarm: Detection and Response | Incident Response Lifecycle, Containment, Post-Incident Analysis |
-| **[Automated Log Parser with Python](07_Project-7-Python-Automation/README.md)** | Course 7: Automate Cybersecurity Tasks with Python | Python Scripting, Automation, File I/O |
+| **[Automated Log Parser with Python](07_Project-7-Python-Automation/README.md)** | Course 7: Automate Cybersecurity Tasks with Python | Python Scripting, Automation, File I/O, Parsing |
 
 ---
 
