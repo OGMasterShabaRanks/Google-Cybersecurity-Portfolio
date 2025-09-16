@@ -64,4 +64,5 @@ This project demonstrates my ability to use Python as a practical tool for cyber
 ### **Key Deliverable & Artifacts**
 
   * **[View the Python reference guide here.](python-commands.pdf)**  
-  * **[View the  automated ip allowed list updater algorithm breakdon here.](automated-ip-allow-list-updater.pdf)** 
+  * **[View the  automated ip allowed list updater algorithm breakdon here.](automated-ip-allow-list-updater.pdf)**
+  * **[View the  automated ip allowed list updater (`.py`) file here.](allow_list_updater.py)** 

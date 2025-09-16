@@ -81,4 +81,6 @@ This project demonstrates my proficiency with two of the most fundamental tools 
 ### **Key Deliverable & Artifacts**
 
   * **[View the reference guide for SQL queries here.](sql_queries.pdf)**
-  * **[View the reference guide for Linux commands here.](linux-comands.pdf)**
+  * **[View the reference guide for Linux comands here.](linux-comands.pdf)**
+  * **[View the adjustment of file permissions using Linux comands here.](file-permissions-in-linux.pdf)**
+  * **[View the se of SQL queries for security tasks here.](security-tasks-using-sql.pdf)**
